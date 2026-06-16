@@ -1,0 +1,125 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Pelli Choopulu",
+      "hero": "Vijay Deverakonda",
+      "heroine": "Ritu Varma",
+      "year": "2016",
+      "genre": "Romantic Comedy",
+      "rating": 9.2,
+      "director": "Tharun Bhascker",
+      "image": "https://upload.wikimedia.org/wikipedia/en/5/5e/Pelli_Choopulu_poster.jpg",
+      "description": "A refreshing love story between an aspiring chef and an independent entrepreneur."
+    },
+    {
+      "id": 2,
+      "title": "Ante Sundaraniki",
+      "hero": "Nani",
+      "heroine": "Nazriya Nazim",
+      "year": "2022",
+      "genre": "Romantic Comedy",
+      "rating": 9.0,
+      "director": "Vivek Athreya",
+      "image": "https://upload.wikimedia.org/wikipedia/en/2/2d/Ante_Sundaraniki_poster.jpg",
+      "description": "A hilarious tale of interfaith love and family drama."
+    },
+    {
+      "id": 3,
+      "title": "Oohalu Gusagusalade",
+      "hero": "Naga Shaurya",
+      "heroine": "Raashi Khanna",
+      "year": "2014",
+      "genre": "Romantic Comedy",
+      "rating": 8.8,
+      "director": "Srinivas Avasarala",
+      "image": "https://upload.wikimedia.org/wikipedia/en/d/d5/Oohalu_Gusagusalade.jpg",
+      "description": "A sweet romantic entertainer filled with witty conversations."
+    },
+    {
+      "id": 4,
+      "title": "Kushi",
+      "hero": "Pawan Kalyan",
+      "heroine": "Bhumika Chawla",
+      "year": "2001",
+      "genre": "Romantic Comedy",
+      "rating": 9.5,
+      "director": "S. J. Surya",
+      "image": "https://upload.wikimedia.org/wikipedia/en/4/4c/Kushi_2001_film_poster.jpg",
+      "description": "One of Telugu cinema's most iconic romantic entertainers."
+    },
+    {
+      "id": 5,
+      "title": "Sammohanam",
+      "hero": "Sudheer Babu",
+      "heroine": "Aditi Rao Hydari",
+      "year": "2018",
+      "genre": "Romantic Drama",
+      "rating": 8.9,
+      "director": "Mohan Krishna Indraganti",
+      "image": "https://upload.wikimedia.org/wikipedia/en/c/c6/Sammohanam_2018_film_poster.jpg",
+      "description": "A charming story about love beyond perceptions."
+    },
+    {
+      "id": 6,
+      "title": "Hi Nanna",
+      "hero": "Nani",
+      "heroine": "Mrunal Thakur",
+      "year": "2023",
+      "genre": "Romantic Drama",
+      "rating": 9.1,
+      "director": "Shouryuv",
+      "image": "https://upload.wikimedia.org/wikipedia/en/3/3c/Hi_Nanna_poster.jpg",
+      "description": "An emotional story of love, family and second chances."
+    },
+    {
+      "id": 7,
+      "title": "Ala Modalaindi",
+      "hero": "Nani",
+      "heroine": "Nithya Menen",
+      "year": "2011",
+      "genre": "Romantic Comedy",
+      "rating": 8.7,
+      "director": "Nandini Reddy",
+      "image": "https://upload.wikimedia.org/wikipedia/en/b/b9/Ala_Modalaindi.jpg",
+      "description": "A fun and heartwarming romantic journey."
+    },
+    {
+      "id": 8,
+      "title": "Ye Maaya Chesave",
+      "hero": "Naga Chaitanya",
+      "heroine": "Samantha",
+      "year": "2010",
+      "genre": "Romantic Drama",
+      "rating": 9.3,
+      "director": "Gautham Vasudev Menon",
+      "image": "https://upload.wikimedia.org/wikipedia/en/f/f1/Ye_Maaya_Chesave_poster.jpg",
+      "description": "A timeless romantic classic loved by Telugu audiences."
+    },
+    {
+      "id": 9,
+      "title": "Nuvvu Naaku Nachav",
+      "hero": "Venkatesh",
+      "heroine": "Aarthi Agarwal",
+      "year": "2001",
+      "genre": "Romantic Comedy",
+      "rating": 9.8,
+      "director": "K. Vijaya Bhaskar",
+      "image": "https://upload.wikimedia.org/wikipedia/en/1/11/Nuvvu_Naaku_Nachav.jpg",
+      "description": "The gold standard of Telugu romantic comedy movies."
+    },
+    {
+      "id": 10,
+      "title": "Uyyala Jampala",
+      "hero": "Raj Tarun",
+      "heroine": "Avika Gor",
+      "year": "2013",
+      "genre": "Romantic Comedy",
+      "rating": 8.6,
+      "director": "Virinchi Varma",
+      "image": "https://upload.wikimedia.org/wikipedia/en/e/e6/Uyyala_Jampala_poster.jpg",
+      "description": "A village love story packed with humor and emotions."
+    }
+  ],
+  "users": []
+}
